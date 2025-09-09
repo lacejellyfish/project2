@@ -10,6 +10,7 @@
 ## Files:
 * Part 1: Webpages used, data questions asked, data cleaning plan, and robots.txt restrictions (.DOCX file)
 * Part 2: Webscraping, data cleaning, data analysis, and plotting (.ipynb - Jupyter Notebook file)
+* coaches.png, eastern conference.png, lakers.png, scoring efficiency.png, top10draft.png: Data visualizations produced by the code.
 
 ### We will scrape data to answer the following questions:
 1. How has LeBron James’ scoring efficiency (TS%, PER) changed over the last 10 years?
